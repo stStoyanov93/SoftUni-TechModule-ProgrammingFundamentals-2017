@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MultiplicationTable2_0
+{
+    class MultiplicationTable2
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
+            int multiplier = int.Parse(Console.ReadLine());
+
+            if (multiplier > 10)
+            {
+                Console.WriteLine($"{number} X {multiplier} = {number * multiplier}");
+            }
+            else
+            {
+                for (int i = multiplier; i <= 10; i++)
+                {
+                    Console.WriteLine($"{number} X {i} = {number * i}");
+                }
+            }
+        }
+    }
+}

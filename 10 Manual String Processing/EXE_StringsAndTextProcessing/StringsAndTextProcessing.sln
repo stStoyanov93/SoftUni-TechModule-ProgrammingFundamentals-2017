@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheLetter", "FindTheLetter\FindTheLetter.csproj", "{7B98D07B-4817-4BE8-A24F-2FDBBA46DEDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Placeholders", "Placeholders\Placeholders.csproj", "{2CB50728-3DEE-424E-A135-D608B4ED24A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsCounter", "PointsCounter\PointsCounter.csproj", "{593B9B0E-71A6-4AB1-A41F-2B136CE47ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentenceSplit", "SentenceSplit\SentenceSplit.csproj", "{68E1EBD4-8F68-4A4B-8A01-D80A5391197E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalizeWords", "CapitalizeWords\CapitalizeWords.csproj", "{16118AC3-2775-49D2-9543-C36E754EC2E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONStringify", "JSONStringify\JSONStringify.csproj", "{AFE8DEF5-4882-41C5-946B-9662402499A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONParse", "JSONParse\JSONParse.csproj", "{2DECE94D-1086-460A-A44E-241DD82ABE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B98D07B-4817-4BE8-A24F-2FDBBA46DEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B98D07B-4817-4BE8-A24F-2FDBBA46DEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B98D07B-4817-4BE8-A24F-2FDBBA46DEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B98D07B-4817-4BE8-A24F-2FDBBA46DEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB50728-3DEE-424E-A135-D608B4ED24A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB50728-3DEE-424E-A135-D608B4ED24A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB50728-3DEE-424E-A135-D608B4ED24A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB50728-3DEE-424E-A135-D608B4ED24A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593B9B0E-71A6-4AB1-A41F-2B136CE47ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593B9B0E-71A6-4AB1-A41F-2B136CE47ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593B9B0E-71A6-4AB1-A41F-2B136CE47ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593B9B0E-71A6-4AB1-A41F-2B136CE47ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E1EBD4-8F68-4A4B-8A01-D80A5391197E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E1EBD4-8F68-4A4B-8A01-D80A5391197E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E1EBD4-8F68-4A4B-8A01-D80A5391197E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E1EBD4-8F68-4A4B-8A01-D80A5391197E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16118AC3-2775-49D2-9543-C36E754EC2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16118AC3-2775-49D2-9543-C36E754EC2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16118AC3-2775-49D2-9543-C36E754EC2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16118AC3-2775-49D2-9543-C36E754EC2E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE8DEF5-4882-41C5-946B-9662402499A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE8DEF5-4882-41C5-946B-9662402499A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE8DEF5-4882-41C5-946B-9662402499A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE8DEF5-4882-41C5-946B-9662402499A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DECE94D-1086-460A-A44E-241DD82ABE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DECE94D-1086-460A-A44E-241DD82ABE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DECE94D-1086-460A-A44E-241DD82ABE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DECE94D-1086-460A-A44E-241DD82ABE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
